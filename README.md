@@ -1,17 +1,3 @@
-<h1 align="center"><img src="https://media.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" height="38" /> Hi there, I'm <a href="https://github.com/DylanGomezunlp" target="_blank">Dylan Gomez</a>
- <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" height="38" /></h1>
-
-
-
-<h3 align="center"> Un poco sobre mi  </h3>
- 
-Hola, mi nombre es Dylan, actualmente estudio licenciatura en sistemas (UNLP Argentina). Mis intereses actuales se centran en las IA.
-
-
-
----
-
-
 
 <h3 ><img src="https://media.giphy.com/media/lOUQIB66MY7fgFEfUp/giphy.gif" height="30" /> Proyectos</h3>
 
