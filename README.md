@@ -26,7 +26,9 @@
 
 <!-- Sección de proyectos principales -->
 ### 🚀 Proyectos Destacados  
-<a href="https://github.com/DylanGomezunlp/Figurace/tree/main/Figurace"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DylanGomezunlp&repo=Figurace&theme=react&bg_color=1F222E&title_color=ffffff&icon_color=F8D866&hide_border=true" alt="Figurace"></a>
+<a href="https://github.com/DylanGomezunlp/Figurace/tree/main/Figurace">
+  <img src="https://github.com/DylanGomezunlp/DylanGomezunlp/blob/main/gatubi%20logo.png" alt="Figurace Logo" width="60px">
+</a>
 
 ---
 
