@@ -15,16 +15,12 @@
 
 ---
 
-<!-- Skills técnicas -->
 ### 🛠️ Tecnologías y herramientas
-- **Lenguajes:** Python, Java, Pascal  
-- **Frameworks:** Flask, FastAPI (en progreso)  
-- **Otros:** Git/GitHub, Docker (básico), SQL, Linux CLI  
-- **Intereses:** Machine Learning, NLP, Web Scraping, Ciberseguridad
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="32" height="32">
 ---
 
-<!-- Sección de proyectos principales -->
 ### 🚀 Proyectos Destacados  
 <a href="https://github.com/DylanGomezunlp/Figurace/tree/main/Figurace">
   <img src="https://github.com/DylanGomezunlp/DylanGomezunlp/blob/main/gatubi%20logo.png" alt="Figurace Logo" width="60px">
@@ -32,7 +28,6 @@
 
 ---
 
-<!-- Materias y prácticas -->
 <details>
 <summary>📘 Repositorios de Materias y Prácticas</summary>
 <br>
@@ -41,8 +36,8 @@
 
 ---
 
-<!-- Contacto -->
 ### 📬 Contacto
 - ✉️ **Email:** [dylangomezu@gmail.com](mailto:dylangomezu@gmail.com)  
 - 🌐 **GitHub:** [github.com/DylanGomezunlp](https://github.com/DylanGomezunlp)  
 ---
+
