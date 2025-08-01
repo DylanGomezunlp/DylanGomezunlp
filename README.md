@@ -10,7 +10,7 @@
 - 🐍 Apasionado por **Python**, machine learning, desarrollo web y automatización.  
 - 📚 Construyendo proyectos en **Udemy & autodidacta**, y compartiéndolos aquí en GitHub.  
 - 🚀 Buscando mi primera oportunidad como **Desarrollador Python Junior**.  
-- 🌱 Actualmente aprendiendo **FastAPI, APIs REST y Git profesional.**
+- 🌱 Actualmente aprendiendo **Selenium y desarrollo web**
 
 
 
@@ -42,6 +42,7 @@
 - ✉️ **Email:** [dylangomezu@gmail.com](mailto:dylangomezu@gmail.com)  
 - 🌐 **GitHub:** [github.com/DylanGomezunlp](https://github.com/DylanGomezunlp)  
 ---
+
 
 
 
