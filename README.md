@@ -16,9 +16,11 @@
 ---
 
 ### 🛠️ Tecnologías y herramientas
+<div style="display: flex; gap: 8px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="32" height="32">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="32" height="32">
+</div>
 ---
 
 ### 🚀 Proyectos Destacados  
@@ -40,4 +42,5 @@
 - ✉️ **Email:** [dylangomezu@gmail.com](mailto:dylangomezu@gmail.com)  
 - 🌐 **GitHub:** [github.com/DylanGomezunlp](https://github.com/DylanGomezunlp)  
 ---
+
 
